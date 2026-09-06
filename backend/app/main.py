@@ -21,7 +21,7 @@ from app.services.network_intelligence import (
 
 
 app = FastAPI(
-    title="RazorShield API",
+    title="RazorSentry API",
     description="AI-powered risk intelligence platform for modern payments",
     version="0.2.0",
 )
